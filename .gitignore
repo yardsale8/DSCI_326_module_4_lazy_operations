@@ -168,3 +168,4 @@ cython_debug/
 .DS_Store
 img/~$images_for_lazy_lectures.pptx
 key_lab_4_1_exploring_the_lakes_data.ipynb
+/data/__MACOSX
